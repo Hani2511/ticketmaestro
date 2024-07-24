@@ -1,0 +1,11 @@
+let event = {
+    title: "Our Event",
+    date: "23-07-2024",
+    time: "15:00",
+    endDate: "26-08-2024",
+    genre: "Jazz",
+    location: "Manchester",
+    url: "www.test.com",
+    partnerSite: "",
+    venue: "The Palace Theatre"
+}

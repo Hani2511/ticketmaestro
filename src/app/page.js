@@ -1,7 +1,14 @@
+import List from "./components/List";
+import Header from "./components/Header"
+import Footer from "./components/Footer"
+
+
 export default function Page() {
   return (
     <section>
-      <h1>Welcome to the home ...</h1>
+      <Header/>
+      <List />
+      <Footer />
     </section>
   );
 }
